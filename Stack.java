@@ -1,3 +1,4 @@
+//Student Name : Sarah Mohammed Althobiti , Student ID : 444004881
 public interface Stack<E> {
     
     int size();
@@ -18,7 +19,7 @@ public interface Stack<E> {
     E top();
 
 
-    
+
 
     E pop();
 
